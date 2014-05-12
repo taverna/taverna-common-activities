@@ -7,59 +7,60 @@
 	</parent>
 	<groupId>net.sf.taverna.t2.activities</groupId>
 	<artifactId>common-activities</artifactId>
+	<version>1.5.1</version>
 	<name>Taverna 2 Common activities (meta artifact)</name>
 	<dependencies>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>beanshell-activity</artifactId>
-			<version>${project.version}</version>
+			<version>1.5.1</version>
 		</dependency>
 
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>dataflow-activity</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>external-tool-activity</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 		</dependency>
 
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>localworker-activity</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>rest-activity</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>rshell-activity</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>spreadsheet-import-activity</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>stringconstant-activity</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>wsdl-activity</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>xpath-activity</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 		</dependency>
 	</dependencies>
 </project>
