@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>localworker-activity</artifactId>
-			<version>1.5.1-SNAPSHOT</version>
+			<version>1.5.1</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
