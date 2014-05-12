@@ -1,4 +1,4 @@
-# Taverna Workflow system Common Activity
+# Taverna Common Activities
 
 This module is an empty Maven artifact that depend on the common Taverna activities:
 
